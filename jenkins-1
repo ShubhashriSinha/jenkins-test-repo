@@ -1,4 +1,4 @@
-echo "Git final 1"
+echo "Git final 2"
 date
 cal
 echo "Bye 2nd build"
