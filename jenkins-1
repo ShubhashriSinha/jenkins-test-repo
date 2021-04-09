@@ -1,4 +1,4 @@
-echo "This is test data"
+echo "Git triGGer for Git SCM"
 date
 cal
 echo "Bye 2nd build"
